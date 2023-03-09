@@ -1,0 +1,16 @@
+.big-title{
+    background-color: blue;
+    font-size: 30pxpx;
+    font-style: italic;
+}
+
+.margin-50{
+    margin: 40px;
+    padding: 20px;
+}
+
+.pic{
+    height: 150px;
+    width: 150px;
+    
+}
